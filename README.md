@@ -1,7 +1,7 @@
 # ⚙️ Modeling and Control of a Mechanical System to Reach a Fixed Equilibrium Position
 
 This project presents the **modeling, analysis, and control design** of a **nonlinear flexible mechanical mechanism** actuated by a DC motor.  
-Developed within the *Automatic Control T-2* course at the University of Bologna, it demonstrates a complete control-engineering workflow — from nonlinear modeling to digital implementation — aiming to regulate the system toward a fixed equilibrium position under given performance and robustness specifications.
+Developed within the *Automatic Control T-2* course at the University of Bologna, it demonstrates a complete control-engineering workflow, from nonlinear modeling to digital implementation, aiming to regulate the system toward a fixed equilibrium position under given performance and robustness specifications.
 
 ---
 
