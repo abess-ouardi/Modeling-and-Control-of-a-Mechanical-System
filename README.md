@@ -10,8 +10,5 @@ It includes mathematical modeling, system identification, and digital controller
 - Parameter estimation via Least Squares
 - Simulation and validation
 
-📄 The full report is available in [`Modeling and Control of a Mechanical System
-to Reach a Fixed Equilibrium Position
-Under Design Specifications.pdf`](./Modeling and Control of a Mechanical System
-to Reach a Fixed Equilibrium Position
-Under Design Specifications.pdf).
+[📄 Full report](./Modeling%20and%20Control%20of%20a%20Mechanical%20System%20to%20Reach%20a%20Fixed%20Equilibrium%20Position%20Under%20Design%20Specifications.pdf)
+
